@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "437cc9e7c6bc3e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3b63afe6ea75c6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1200199a0a5e8a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c596b84f1b9839c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae6fb157bfd6ac8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcee4bd18a9dd5ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7b900d8f823a5f20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "6c75d59c7d7cdbba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2a7d1e7413d257f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0444ea8d5a3204be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d004cfb7e96eacbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 новый промпт.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2 новый промпт"
+            }
+          },
+          {
+            "id": "d83dd3ceebed059e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 новый промпт.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2 новый промпт"
+            }
+          },
+          {
+            "id": "150df8815994adbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "aa9110c0752b3edc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 новый промпт.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2 новый промпт"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1200199a0a5e8a7d",
+  "lastOpenFiles": [
+    "ИИ фамилиа/Промпт 6.md",
+    "ип ануфриев.md",
+    "Связь аппскриптс с процессами.md",
+    "Без названия.md",
+    "Без названия",
+    "Без названия.canvas",
+    "ИИ туризм/вебхук на выдачу отелей.md",
+    "Схема.md",
+    "ИИ туризм/бот туризм.md",
+    "ИИ туризм/бот туризм выдача отелей.md",
+    "ИИ фамилиа/фамилиа для тест акка.md",
+    "ИИ туризм",
+    "ИИ фамилиа/фамилиа для клиент акка.md",
+    "ИИ фамилиа/Промпт каталога.md",
+    "ИИ фамилиа/Промпт 5.md",
+    "ИИ фамилиа",
+    "eng bot familia.md",
+    "465456.md",
+    "131313.md",
+    "бот туризм 2.md",
+    "12121212.md",
+    "1111.md",
+    "2 новый промпт.md",
+    "24.03 промпт.md",
+    "туризм2.md",
+    "новая версия.md",
+    "Туризм.md",
+    "3 новый промпт.md",
+    "промпт 3.md"
+  ]
+}

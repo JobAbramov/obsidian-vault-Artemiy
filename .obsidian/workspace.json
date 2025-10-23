@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашняя.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Домашняя"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b704f4e90857995",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e6f3591c5728a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca42e141b1fc23cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1fac68e905232cfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "59f307fb3699b291",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "9fc4a2ca9151e51b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6c70877a7335758",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c236fa8973318991",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Мои проекты/ИИ туризм/123123.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 123123"
+            }
+          },
+          {
+            "id": "8c39681a9dea8edb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Технические/Домашняя.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Домашняя"
+            }
+          },
+          {
+            "id": "1f7674d220285ff7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4740b6f636e69370",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Мои проекты/HAKUNARENT/Промпт рабочий.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Промпт рабочий"
+            }
+          },
+          {
+            "id": "74d04497c8c99ef7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "451d9a120287ce71",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "workspaces:Пространства": false,
+      "bases:Создать новую базу": false,
+      "homepage:Open homepage": false,
+      "sheet-plus:Создать Excel Файл": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Мои проекты/Всячина/Ежедневник.md",
+    "Мои проекты/NoStress design/Промпт.md",
+    "Мои проекты/digitalexpats/Промпт без квиза eng.md",
+    "Домашняя.md",
+    "Мои проекты/digitalexpats/Промпт сам записался.md",
+    "Мои проекты/digitalexpats/Промпт квиз eng.md",
+    "Мои проекты/NoStress design/Взражения.md",
+    "Мои проекты/Юристы бот/Квалификатор без таблицы адресов.md",
+    "Мои проекты/digitalexpats/Промпт без квиза.md",
+    "Мои проекты/digitalexpats/правки.md",
+    "Мои проекты/digitalexpats/Промпт квиз.md",
+    "Мои проекты/digitalexpats/Промпт eng.md",
+    "Мои проекты/NoStress design/Правки.md",
+    "Мои проекты/МГКА «Розенберг, Хазова и партнеры»/Пример промпта.md",
+    "Мои проекты/МГКА «Розенберг, Хазова и партнеры»/Тестовый промпт.md",
+    "Мои проекты/HAKUNARENT/Промпт eng.md",
+    "Мои проекты/платон/Тест базки.md",
+    "Мои проекты/ЕЦЭ/Работы.md",
+    "Мои проекты/HAKUNARENT/бэкап промпта до 13.10.md",
+    "Мои проекты/HAKUNARENT/Промпт рус.md",
+    "Мои проекты/пример xml/Пример xml.md",
+    "Мои проекты/Юристы бот/Реаниматор.md",
+    "Мои проекты/Юристы бот/Прогреватор.md",
+    "Мои проекты/Юристы бот/Квалификатор актуальный.md",
+    "Мои проекты/HAKUNARENT/123.md",
+    "Мои проекты/HAKUNARENT/Мусор",
+    "Мои проекты/HAKUNARENT/Без названия.canvas",
+    "Мои проекты/HAKUNARENT/Мусор/Список транспорта.md",
+    "Pasted image 20251007153102.png",
+    "Мои проекты/МГКА «Розенберг, Хазова и партнеры»",
+    "Мои проекты/digitalexpats",
+    "Мои проекты/NoStress design",
+    "Мои проекты/ЕЦЭ",
+    "Мои проекты/Юристы бот.zip",
+    "Мои проекты/платон",
+    "Мои проекты/HAKUNARENT",
+    "Проекты Семёна/Рабочие/ИП Ануфриев Александр Васильевич/Схема переноса Процесса на аккаунт клиента.canvas",
+    "Мои проекты/Кремль",
+    "Pasted image 20250618163346.png",
+    "Старые мои проекты/пример xml/Remax_o3_2.txt",
+    "Проекты Семёна/Архив/Студио Фамилия/Схема работы бота.canvas",
+    "Проекты Семёна/Архив/МТО УФК/Схема работы воронки WOW ARTS.canvas",
+    "Проекты Семёна/Архив/Женский секрет/Без названия.canvas",
+    "Без названия.canvas",
+    "Проекты Семёна/Архив/Paul Marie/Весь процесс интеграции амо и апп шит.canvas",
+    "Проекты/Женский секрет/Схема работы бота.canvas",
+    "Pasted image 20250217165535.png",
+    "Проекты/тест/Без названия.canvas",
+    "Звонок отслеживание.canvas",
+    "Pasted image 20240212142413.png",
+    "2024-02-06_15-09.png",
+    "tg.jpeg"
+  ]
+}

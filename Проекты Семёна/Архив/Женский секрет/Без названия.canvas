@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7d2faa015cd396e8","type":"text","text":"Клиент обратился","x":-100,"y":-320,"width":250,"height":60},
+		{"id":"d66d0a4d052d56f6","type":"text","text":" Добавляется id всех филилалов сети в бота ","x":-100,"y":-220,"width":250,"height":55}
+	],
+	"edges":[
+		{"id":"540bb08ec0a7c006","fromNode":"7d2faa015cd396e8","fromSide":"bottom","toNode":"d66d0a4d052d56f6","toSide":"top"}
+	]
+}

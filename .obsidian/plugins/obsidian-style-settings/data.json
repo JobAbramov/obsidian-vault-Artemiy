@@ -1,0 +1,14 @@
+{
+  "o-theme-settings@@o-color-accent": "o-blue",
+  "o-theme-settings@@o-theme-light": "o-green-l",
+  "o-theme-settings@@o-list-distinct": false,
+  "o-theme-settings@@o-kanban-wrap": false,
+  "o-theme-settings@@o-header-size": "o-headings-origami",
+  "o-theme-settings@@o-header-line-accent": "o-mono-headers-body",
+  "o-theme-settings@@o-justify": false,
+  "kakano-style@@theme-setting-predefinedBaseColor": "theme-setting-baseColorPreset-kaakaariki",
+  "kakano-style@@theme-setting-fullWidthStatusBar": false,
+  "kakano-style@@theme-setting-customGradient": false,
+  "kakano-style@@theme-setting-highlightActiveLine": false,
+  "kakano-style@@theme-setting-codeBlockLineNumbers": false
+}

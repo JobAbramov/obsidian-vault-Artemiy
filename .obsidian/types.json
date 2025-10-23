@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Время выполнения": "date",
+    "Выполнено": "checkbox",
+    "Статус": "checkbox",
+    "Выполнен": "checkbox",
+    "Конец работы": "date",
+    "Начало работы": "date",
+    "Возврат": "checkbox",
+    "Часы работ": "number",
+    "Этап": "text",
+    "Дата создания": "date",
+    "Приоритет": "text"
+  }
+}

@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"1769e7cb4882f614","type":"text","text":"Начало процесса","x":-440,"y":-80,"width":250,"height":60,"color":"4"},
+		{"id":"6c659c6d6f35b8e4","type":"text","text":"Вставка переменной","x":-109,"y":-80,"width":250,"height":60,"color":"2"},
+		{"id":"5f4e238a67aeb7d2","type":"text","text":"Переменная: Промпт\nЗадать значение\nЗначение: [[Промпт анализа]]","x":-108,"y":36,"width":250,"height":104,"color":"2"},
+		{"id":"707b42ef36a9508c","type":"text","text":"Отправить Webhook\nPOST https://api.f5ai.ru/v1/chat/completions\nJSON: [[Запрос в f5ai]]\nHeaders:\n- X-Auth-Token: [[Ключ в f5ai]]\nЗаписать ответ в переменные: \n- body.choices[0].message.content: Ответ от нейросети","x":260,"y":-238,"width":250,"height":378,"color":"#b3004d"},
+		{"id":"70913d9afe14e5e2","type":"text","text":"Мультиусловие","x":590,"y":-78,"width":250,"height":60,"color":"6"},
+		{"id":"397db72fdcbef393","type":"text","text":"Изменить сделку\nТеги: Горячий","x":1316,"y":-300,"width":250,"height":60,"color":"#129801"},
+		{"id":"32b5661c6ed385b2","type":"text","text":"Изменить сделку\nТеги: Нецелевой","x":1316,"y":-620,"width":250,"height":60,"color":"#129801"},
+		{"id":"ae618194f78f47c4","type":"text","text":"Изменить сделку\nТеги: Теплый","x":1316,"y":20,"width":250,"height":60,"color":"#129801"},
+		{"id":"25dffc7670691de5","type":"text","text":"Изменить сделку\nТеги: Холодный","x":1316,"y":340,"width":250,"height":60,"color":"#129801"},
+		{"id":"e0406e683e733767","type":"text","text":"Завершить процесс","x":1940,"y":-78,"width":250,"height":60,"color":"1"},
+		{"id":"0c808c8ac9bde057","type":"text","text":"Примечание:\nНейросеть сработала с ошибкой. Попробуйте снова","x":1316,"y":600,"width":250,"height":119,"color":"3"}
+	],
+	"edges":[
+		{"id":"91796d6309d6631d","fromNode":"1769e7cb4882f614","fromSide":"right","toNode":"6c659c6d6f35b8e4","toSide":"left"},
+		{"id":"ee392dbcc6a84816","fromNode":"6c659c6d6f35b8e4","fromSide":"bottom","toNode":"5f4e238a67aeb7d2","toSide":"top"},
+		{"id":"ee711524b9e0d4ed","fromNode":"6c659c6d6f35b8e4","fromSide":"right","toNode":"707b42ef36a9508c","toSide":"left"},
+		{"id":"6caa77b9400d8492","fromNode":"707b42ef36a9508c","fromSide":"right","toNode":"70913d9afe14e5e2","toSide":"left"},
+		{"id":"5e44b6204c92ad7e","fromNode":"70913d9afe14e5e2","fromSide":"right","toNode":"32b5661c6ed385b2","toSide":"left","label":"Ответ от нейросети Равно Собственное значение Нецелевой лид"},
+		{"id":"7b7bf80a304f966f","fromNode":"70913d9afe14e5e2","fromSide":"right","toNode":"ae618194f78f47c4","toSide":"left","label":"Ответ от нейросети Равно Собственное значение Теплый лид"},
+		{"id":"20b09b869fbd652d","fromNode":"70913d9afe14e5e2","fromSide":"right","toNode":"25dffc7670691de5","toSide":"left","label":"Ответ от нейросети Равно Собственное значение Холодный лид"},
+		{"id":"4dfb8eb424e17486","fromNode":"70913d9afe14e5e2","fromSide":"right","toNode":"397db72fdcbef393","toSide":"left","label":"Ответ от нейросети Равно Собственное значение Горячий лид"},
+		{"id":"883a2ea6062f4c12","fromNode":"70913d9afe14e5e2","fromSide":"bottom","toNode":"0c808c8ac9bde057","toSide":"left","label":"Иначе"},
+		{"id":"74e1e6dabddb75f9","fromNode":"397db72fdcbef393","fromSide":"right","toNode":"e0406e683e733767","toSide":"left"},
+		{"id":"22fbf6e879dc5048","fromNode":"32b5661c6ed385b2","fromSide":"right","toNode":"e0406e683e733767","toSide":"left"},
+		{"id":"af137215b3f2524d","fromNode":"ae618194f78f47c4","fromSide":"right","toNode":"e0406e683e733767","toSide":"left"},
+		{"id":"b5f25489634d6289","fromNode":"25dffc7670691de5","fromSide":"right","toNode":"e0406e683e733767","toSide":"left"},
+		{"id":"48c795dc61cb4dad","fromNode":"0c808c8ac9bde057","fromSide":"right","toNode":"e0406e683e733767","toSide":"left"}
+	]
+}

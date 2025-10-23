@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false
+}

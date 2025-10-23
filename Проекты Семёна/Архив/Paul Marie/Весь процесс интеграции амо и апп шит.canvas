@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"7346f55f0db59750","x":647,"y":-64,"width":250,"height":60,"color":"5","type":"text","text":"Данные выгружаются в гугл таблицы"},
+		{"id":"a98d526d45d96651","x":1360,"y":-64,"width":250,"height":60,"color":"5","type":"text","text":"В приложении создаётся задача"},
+		{"id":"409debe128b01079","x":320,"y":-64,"width":250,"height":60,"color":"5","type":"text","text":"Переходит на этап с выгрузкой"},
+		{"id":"b95707263970a2f3","x":1000,"y":-78,"width":250,"height":89,"color":"5","type":"text","text":"Изменение отражается в приложении"},
+		{"id":"1e379ef78e210df1","x":-20,"y":-64,"width":250,"height":60,"color":"3","type":"text","text":"Сделка попадает в амо"},
+		{"id":"157aaa1084ea6e6a","x":1680,"y":-92,"width":250,"height":116,"color":"5","type":"text","text":"Задача обрабатывается менеджером с результатом"},
+		{"id":"a3568d1fc34eddba","x":2050,"y":-61,"width":250,"height":60,"color":"5","type":"text","text":"Результат задачи фиксируется в таблице"},
+		{"id":"6a9fd04d3415cafa","x":2409,"y":-59,"width":250,"height":60,"color":"5","type":"text","text":"Данные отправляются в Триггеры"},
+		{"id":"4668db2047070d0e","x":3080,"y":-61,"width":250,"height":60,"color":"5","type":"text","text":"Триггеры переводят сделку на следующий этап"},
+		{"id":"1280ef0047f21fcd","x":2740,"y":-61,"width":250,"height":62,"color":"5","type":"text","text":"Триггеры вносят данные в сделку "},
+		{"id":"312243920bacd517","x":3436,"y":-60,"width":250,"height":60,"color":"4","type":"text","text":"Сделка отработана"}
+	],
+	"edges":[
+		{"id":"8ba9b6e8a806ce4f","fromNode":"1e379ef78e210df1","fromSide":"right","toNode":"409debe128b01079","toSide":"left"},
+		{"id":"4405831daf1c7c88","fromNode":"409debe128b01079","fromSide":"right","toNode":"7346f55f0db59750","toSide":"left"},
+		{"id":"8d6936458e6d0926","fromNode":"7346f55f0db59750","fromSide":"right","toNode":"b95707263970a2f3","toSide":"left"},
+		{"id":"fd64220144719099","fromNode":"b95707263970a2f3","fromSide":"right","toNode":"a98d526d45d96651","toSide":"left"},
+		{"id":"6ea370c5c9c0cf47","fromNode":"a98d526d45d96651","fromSide":"right","toNode":"157aaa1084ea6e6a","toSide":"left"},
+		{"id":"148becbb9f2bf2db","fromNode":"157aaa1084ea6e6a","fromSide":"right","toNode":"a3568d1fc34eddba","toSide":"left"},
+		{"id":"3d2f8a313a3436b2","fromNode":"a3568d1fc34eddba","fromSide":"right","toNode":"6a9fd04d3415cafa","toSide":"left"},
+		{"id":"713bc45c4a5d540b","fromNode":"6a9fd04d3415cafa","fromSide":"right","toNode":"1280ef0047f21fcd","toSide":"left"},
+		{"id":"3c4a87e6056c9f0e","fromNode":"1280ef0047f21fcd","fromSide":"right","toNode":"4668db2047070d0e","toSide":"left"},
+		{"id":"832a1adba5f6014c","fromNode":"4668db2047070d0e","fromSide":"right","toNode":"312243920bacd517","toSide":"left"}
+	]
+}
