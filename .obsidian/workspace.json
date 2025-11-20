@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мои проекты/ПЧЕЛОШЕРИНГ/Pchelosharing_about.md",
-                "mode": "source",
+                "file": "Домашняя.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pchelosharing_about"
+              "title": "Домашняя"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Мои проекты/ПЧЕЛОШЕРИНГ/Промпт.md",
     "Мои проекты/ПЧЕЛОШЕРИНГ/Pchelosharing_about.md",
+    "Мои проекты/ПЧЕЛОШЕРИНГ/Промпт.md",
     "Мои проекты/digitalexpats/Промпт сам записался.md",
     "Мои проекты/digitalexpats/Промпт квиз eng.md",
     "Мои проекты/digitalexpats/Промпт без квиза eng.md",
