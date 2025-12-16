@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
+      "LiBadgeDollarSign",
+      "LiAperture",
       "LiActivity",
-      "LiSquareKanban",
-      "LiFolders",
-      "LiHome",
-      "LiHomepage"
+      "LiSquareKanban"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,7 +39,8 @@
   "Ежедневные": "LiFolderClock",
   "Домашняя.md": "LiHome",
   "Системные/Шаблоны": "LiNotepadTextDashed",
-  "Проекты Семёна": "LiClipboard",
+  "Проекты Семёна": "LiArchive",
   "Проекты Семёна/Архив": "LiArchive",
-  "Проекты Семёна/Рабочие": "LiActivity"
+  "Проекты Семёна/Рабочие": "LiActivity",
+  "Мои проекты": "LiBadgeDollarSign"
 }

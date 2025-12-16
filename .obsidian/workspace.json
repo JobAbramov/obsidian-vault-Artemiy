@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мои проекты/NoStress design/Промпт.md",
+                "file": "Мои проекты/Про ламинат/Промпт.md",
                 "mode": "source",
                 "source": true
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "9fc4a2ca9151e51b",
@@ -198,58 +197,19 @@
       "card-board:CardBoard": false
     }
   },
-  "floating": {
-    "id": "ceb540f39b647cb9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ae2ee2a495cd84ac",
-        "type": "window",
-        "children": [
-          {
-            "id": "0a42c7b2e6959e2c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d8d3f28bdbcf70a9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Мои проекты/NoStress design/Правки.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Правки"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Мои проекты/Про ламинат/втреча 5.12.md",
+    "Мои проекты/Про ламинат/База ответов.md",
+    "Мои проекты/Про ламинат/Промпт.md",
+    "Мои проекты/Гравитон/Промпт.md",
     "Мои проекты/NoStress design/Правки.md",
+    "Домашняя.md",
     "Мои проекты/NoStress design/Промпт.md",
     "Мои проекты/ПЧЕЛОШЕРИНГ/Промпт.md",
-    "Мои проекты/Гравитон/Промпт.md",
     "Мои проекты/Гравитон/123.md",
     "Мои проекты/Гравитон",
-    "Домашняя.md",
-    "Мои проекты/Про ламинат/Промпт.md",
     "Мои проекты/ПРОМЕТЕЙ/Промпт.md",
-    "Мои проекты/Про ламинат/База ответов.md",
-    "Мои проекты/Про ламинат/втреча 5.12.md",
     "Мои проекты/Код совершенства/Сверка.md",
     "Мои проекты/digitalexpats/Промпт без квиза eng.md",
     "Мои проекты/digitalexpats/Промпт без квиза.md",
