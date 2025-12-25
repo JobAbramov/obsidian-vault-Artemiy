@@ -10,5 +10,6 @@
   "kakano-style@@theme-setting-fullWidthStatusBar": false,
   "kakano-style@@theme-setting-customGradient": false,
   "kakano-style@@theme-setting-highlightActiveLine": false,
-  "kakano-style@@theme-setting-codeBlockLineNumbers": false
+  "kakano-style@@theme-setting-codeBlockLineNumbers": false,
+  "o-theme-settings@@o-theme-dark": "o-min-d"
 }
